@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm doing my master in <strong>Computer Engineer</strong>.<br />
+  Ei! Tão bom ver você aqui.. <br>Eu sou o Abilio Tandela,<strong> Engenheiro Informático</strong>! <br> Eu também sou <strong>Analista de Segurança Cibernetica e Programador </strong>.<br />
 <strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
 
 </p>
