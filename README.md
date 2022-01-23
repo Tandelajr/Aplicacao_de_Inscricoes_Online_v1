@@ -22,6 +22,51 @@
 </div>
 <br>
 <br>
+
+
+
+
+
+<span align="center">
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Aplicação de Inscrições Online - Backend</h2>
+
+</span>
+
+Front-end:
+•	Exame de Acesso
+•	Curso preparatório
+•	Bolsa de Estudo
+•	Resultados
+•	Agendamento de matrícula
+
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/67243528/150661269-b891ed3e-ad94-49fc-80c2-4f14c6f342a7.png" width="900px" />
+</div>
+<br>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
+</div>
+<br>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150659780-5dfd4738-ed72-4b66-b963-e9c16e120584.png" width="900px" />
 </div>
@@ -31,15 +76,15 @@
 
 
 <p align="center">
-  💼 Habilidades: <strong>Supere obstáculos com um grande sorriso. .</strong>
+  💼 <strong>Supere obstáculos com um grande sorriso. .</strong>
 </p>
 
 <p align="center">
-  👩‍💻  Stack: <strong>Frontend JSP, JavaScript, HTML, CSS and Backend Java. </strong>
+  👩‍💻  Stack: <strong>Frontend JSP, JavaScript, HTML, CSS. </strong>
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Java, JSP, JavaScript, Typescript, React, UI, UX.</strong>
+  🚀  Learning: <strong>Java, JSP, JavaScript, Typescript.</strong>
 </p>
 
 <p align="center">
