@@ -45,21 +45,22 @@ Front-end:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150661269-b891ed3e-ad94-49fc-80c2-4f14c6f342a7.png" width="900px" />
 </div>
+<br>  nb
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
+</div>
 <br>
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
 </div>
-<br>
-<br>
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
 </div>
-
-
-
-
-
+<br>
 
 
 
