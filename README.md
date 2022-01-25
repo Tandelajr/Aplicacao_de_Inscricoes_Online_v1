@@ -10,21 +10,28 @@
 <img src="https://user-images.githubusercontent.com/67243528/150659720-5249489b-015c-49d1-bacf-ed538aa71e4c.png" width="20px"> ISAF - Candidaturas Online | Academia BAI</h2>
 
 </span>
-
+Front-end:
+•	Exame de Acesso
+•	Curso preparatório
+•	Bolsa de Estudo
+•	Resultados
+•	Agendamento de matrícula
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150659797-58f9e327-7740-49fd-826a-084d9b3c541b.png" width="900px" />
 </div>
-<br>
+
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150659757-4a5bf998-3da9-46c0-a3a7-7b4b03e5e42b.png" width="900px" />
 </div>
 <br>
-<br>
 
 
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/67243528/150659780-5dfd4738-ed72-4b66-b963-e9c16e120584.png" width="900px" />
+</div>
 
 
 <span align="center">
@@ -33,34 +40,19 @@
 
 </span>
 
-Front-end:
-•	Exame de Acesso
-•	Curso preparatório
-•	Bolsa de Estudo
-•	Resultados
-•	Agendamento de matrícula
+
 
 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150661269-b891ed3e-ad94-49fc-80c2-4f14c6f342a7.png" width="900px" />
 </div>
-<br>  nb
+ 
 <br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
 </div>
 <br>
-<br>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
-</div>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/67243528/150678757-50bba64d-aa32-431b-a02e-5d7ee3b172a5.png" width="900px" />
-</div>
-<br>
 
 
 
@@ -68,9 +60,6 @@ Front-end:
 
 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/67243528/150659780-5dfd4738-ed72-4b66-b963-e9c16e120584.png" width="900px" />
-</div>
 
 <p align="center">
   Ei! Tão bom ver você aqui.. <br>Eu sou o Abilio Tandela,<strong> Engenheiro Informático</strong>! <br> Eu também sou <strong>Analista de Segurança Cibernetica e Programador </strong>.<br />
